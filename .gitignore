@@ -12,3 +12,4 @@ env/Lib/site-packages/inflection.py
 env/share/jupyter/nbextensions/pydeck/
 env/etc/jupyter/nbconfig/notebook.d/
 env/share/man/
+.env
