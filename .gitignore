@@ -1,0 +1,14 @@
+__pycache__
+env/Lib
+env/Scripts
+env/pyvenv.cfg
+env/Scripts/activate
+env/Scripts/deactivate
+env/Scripts/pip
+env/Scripts/pip3
+env/Scripts/python
+env/Scripts/python3
+env/Lib/site-packages/inflection.py
+env/share/jupyter/nbextensions/pydeck/
+env/etc/jupyter/nbconfig/notebook.d/
+env/share/man/
